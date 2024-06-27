@@ -1,0 +1,8 @@
+print("heLlo", "world", 123, True, 3.14)
+print("heLlo", "world", 123, True, 3.14, sep="    ")
+print("heLlo", "world", 123, True, 3.14, sep="=")
+print("heLlo", "world", 123, True, 3.14, sep="_")
+print("heLlo", "world", 123, True, 3.14, sep="0000")
+print("hi, my name is roja")
+print("hi, my name is roja", "maner")
+print("hi, my name is roja", "maner", sep="_")
