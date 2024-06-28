@@ -12,3 +12,9 @@ print(type(age))
 print(type(pi))
 print(type(name))
 print(type(ismale))
+#complex number -i iota-
+complex_number = 2+3j
+#real =2
+#imaginary=3j
+print(complex_number.real)
+print(complex_number.imag)
